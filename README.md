@@ -7,7 +7,8 @@ Made with help from ChatGPT
 ## Activity-1
 
 ---
-<img width="928" alt="Screenshot 2023-10-01 at 3 31 31 PM" src="https://github.com/zhast/ECE444-F2023-Lab2/assets/20625321/2edd1ac5-956d-432c-88e3-63ec8fb402ee">
+![Screenshot 2023-10-01 at 10 06 45 PM](https://github.com/zhast/ECE444-F2023-Lab2/assets/20625321/35a3ee80-253b-4d6d-b390-ce0d3af1995f)
+
 
 
 ---
