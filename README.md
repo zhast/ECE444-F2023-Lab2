@@ -1,6 +1,8 @@
 # ECE444-F2023-Lab2
 
 This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
+Live demo here: https://stevenzhang.xyz/ECE444-F2023-Lab2/
+Made with help from ChatGPT
 
 ## Activity-1
 
