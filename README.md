@@ -26,5 +26,5 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 
 ## Activity-4
-
+![Screenshot 2023-10-01 at 9 26 26 PM](https://github.com/zhast/ECE444-F2023-Lab2/assets/20625321/a6b1a257-0eee-4b12-9a18-b9de3692ab10)
 ![Screenshot 2023-10-01 at 9 25 03 PM](https://github.com/zhast/ECE444-F2023-Lab2/assets/20625321/0d81872c-e5fd-4aa7-82e8-af801de85ef4)
